@@ -3,20 +3,20 @@ Crowdsale Funding with Kasei Coin
  
  Token Contract
 
-![Token](images\tokendeployment.png)
+![Token](./images/tokendeployment.png)
 
 Crowdsale Contract and the Deployer Contract
 
-![Crowdsale](images\crowdsalecontract.png)
+![Crowdsale](./images/crowdsalecontract.png)
  
-![Deployer](images\crowdsaledeployercontract.png)
+![Deployer](./images/crowdsaledeployercontract.png)
 
 Validation of Transactions
 
-![Purchase](images\bought1ETH.png)
+![Purchase](./images/bought1ETH.png)
  
-![Proof](images\PurchaseProof.png)
+![Proof](./images/PurchaseProof.png)
  
 Block Validation
  
-![Block](images\BlockProof.png)
+![Block](./images/BlockProof.png)
